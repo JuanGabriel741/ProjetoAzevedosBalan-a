@@ -1,0 +1,6 @@
+C:\Users\Juan Gabriel\Documents\Projetos\Parametros.txt
+C:\Users\Juan Gabriel\Documents\Projetos\Balança_3.0.exe
+C:\Users\Juan Gabriel\Documents\Projetos\Balança_3.0.dll
+C:\Users\Juan Gabriel\Documents\Projetos\Balança_3.0.deps.json
+C:\Users\Juan Gabriel\Documents\Projetos\Balança_3.0.runtimeconfig.json
+C:\Users\Juan Gabriel\Documents\Projetos\Balança_3.0.pdb

@@ -1,0 +1,15 @@
+C:\Users\Juan Gabriel\Documents\Projetos\Azevedos\Balança\Balança definitiva\Balança_3.0\bin\Release\net8.0\Balança_3.0.exe
+C:\Users\Juan Gabriel\Documents\Projetos\Azevedos\Balança\Balança definitiva\Balança_3.0\bin\Release\net8.0\Parametros.txt
+C:\Users\Juan Gabriel\Documents\Projetos\Azevedos\Balança\Balança definitiva\Balança_3.0\bin\Release\net8.0\Balança_3.0.deps.json
+C:\Users\Juan Gabriel\Documents\Projetos\Azevedos\Balança\Balança definitiva\Balança_3.0\bin\Release\net8.0\Balança_3.0.runtimeconfig.json
+C:\Users\Juan Gabriel\Documents\Projetos\Azevedos\Balança\Balança definitiva\Balança_3.0\bin\Release\net8.0\Balança_3.0.dll
+C:\Users\Juan Gabriel\Documents\Projetos\Azevedos\Balança\Balança definitiva\Balança_3.0\bin\Release\net8.0\Balança_3.0.pdb
+C:\Users\Juan Gabriel\Documents\Projetos\Azevedos\Balança\Balança definitiva\Balança_3.0\obj\Release\net8.0\Balança_3.0.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Juan Gabriel\Documents\Projetos\Azevedos\Balança\Balança definitiva\Balança_3.0\obj\Release\net8.0\Balança_3.0.AssemblyInfoInputs.cache
+C:\Users\Juan Gabriel\Documents\Projetos\Azevedos\Balança\Balança definitiva\Balança_3.0\obj\Release\net8.0\Balança_3.0.AssemblyInfo.cs
+C:\Users\Juan Gabriel\Documents\Projetos\Azevedos\Balança\Balança definitiva\Balança_3.0\obj\Release\net8.0\Balança_3.0.csproj.CoreCompileInputs.cache
+C:\Users\Juan Gabriel\Documents\Projetos\Azevedos\Balança\Balança definitiva\Balança_3.0\obj\Release\net8.0\Balança_3.0.dll
+C:\Users\Juan Gabriel\Documents\Projetos\Azevedos\Balança\Balança definitiva\Balança_3.0\obj\Release\net8.0\refint\Balança_3.0.dll
+C:\Users\Juan Gabriel\Documents\Projetos\Azevedos\Balança\Balança definitiva\Balança_3.0\obj\Release\net8.0\Balança_3.0.pdb
+C:\Users\Juan Gabriel\Documents\Projetos\Azevedos\Balança\Balança definitiva\Balança_3.0\obj\Release\net8.0\Balança_3.0.genruntimeconfig.cache
+C:\Users\Juan Gabriel\Documents\Projetos\Azevedos\Balança\Balança definitiva\Balança_3.0\obj\Release\net8.0\ref\Balança_3.0.dll
